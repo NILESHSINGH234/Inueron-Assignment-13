@@ -24,4 +24,4 @@ In this project i have created a SAAS landing page from scratch. And i have lear
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://saas-landing-home-page.netlify.app/)
+[Live Link !](https://inueron-assignment-13-ozmr79hin-nileshsingh234.vercel.app/)
